@@ -4,6 +4,8 @@
 .env
 .env.local
 .env.*.local
+__pycache__/
+*.py[cod]
 
 # ========================================
 # 2. FRONTEND (NEXT.JS & NODE)
@@ -35,7 +37,6 @@ bin/
 # ========================================
 # 5. Documentation
 # ========================================
-CHANGE_SUMMARY.md
-folder_structure.txt
-project_documentation.md
-reference_image
+documentation/
+reference_image/
+script.py
